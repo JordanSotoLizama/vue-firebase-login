@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# 🔐 Login con Vue 3 + Firebase
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es una prueba inicial de autenticación utilizando **Vue.js** (con Vite) y **Firebase Authentication**.  
+Sirve como base para el desarrollo del sistema **CliniTrack**.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Requisitos
+- Node.js v16 o superior  
+- npm o yarn  
+- Una cuenta en [Firebase](https://firebase.google.com/)
+
+---
+
+## ⚙️ Instalación y uso
+1. Clonar el repositorio:  
+   ```bash
+   git clone https://github.com/tu-usuario/vue-firebase-login.git
+   cd vue-firebase-login
+   
+2. Instalar dependecias
+   ```bash
+   npm install
+   
+3. Configurar las credenciales de Firebase en un archivo .env
+
+4. Ejecutar en modo desarrollo:
+   ```bash
+   npm run dev
+
+5. Abrir en el navegador
