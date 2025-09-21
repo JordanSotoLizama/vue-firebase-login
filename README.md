@@ -29,3 +29,11 @@ Sirve como base para el desarrollo del sistema **CliniTrack**.
    npm run dev
 
 5. Abrir en el navegador
+
+## 📌 Funcionalidades actuales
+
+. Registro y login de usuario con Firebase Auth.
+
+. Validación básica de credenciales.
+
+. Estructura lista para extender a perfiles y roles.
